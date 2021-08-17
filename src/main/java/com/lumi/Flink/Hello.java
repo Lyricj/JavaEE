@@ -5,6 +5,5 @@ public class Hello {
         System.out.println("hello lumi1!!!");
         System.out.println("hello lumi2!!!");
         System.out.println("hello lumi3!!!");
-        System.out.println("hello lumi4!!!");
     }
 }
