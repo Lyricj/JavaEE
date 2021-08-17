@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("hello lumi3!!!");
         System.out.println("master change!!!");
         System.out.println("dev change!!!");
+        System.out.println("pull test!!!");
     }
 }
