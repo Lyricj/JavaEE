@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("hello lumi2!!!");
         System.out.println("hello lumi3!!!");
         System.out.println("dev test!!!");
+        System.out.println("master change!!!");
     }
 }
